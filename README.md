@@ -8,12 +8,13 @@ One of the traditional methods to predict the future stock price is the time ser
 
 ### Data
 
-In this project we perform time series forecasting on the Yahoo Stock Price data ( (Time Series Forecasting With Yahoo Stock Price, 2020). The data is available from 2015-11-23 to 2020-11-20. A brief overview and description of the data is given below -
+In this project we perform time series forecasting on the Yahoo Stock Price data. The data is available from 2015-11-23 to 2020-11-20. A brief overview and description of the data is given below -
 
-Figure 1: Yahoo Stock Price Data representation
-High : Highest Price of the stock for that particular date.​
-Low : Lowest Price of the stock for that particular date.​
-Open : Opening Price of the stock.​
-Close : Closing Price of the stock.​
-Volume : Total amount of Trading Activity.​
-AdjClose : Adjusted values factor in corporate actions such as dividends, stock splits, and new share issuance.​
+![Alt text](data.png)
+
+- High : Highest Price of the stock for that particular date.
+- Low : Lowest Price of the stock for that particular date.
+- Open : Opening Price of the stock.
+- Close : Closing Price of the stock.
+- Volume : Total amount of Trading Activity.
+- AdjClose : Adjusted values factor in corporate actions such as dividends, stock splits, and new share issuance.
